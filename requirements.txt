@@ -1,0 +1,11 @@
+numpy
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+tensorboard
+scipy
+omegaconf
+pytorch-lightning
+einops
+transformers
