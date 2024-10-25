@@ -1,0 +1,1 @@
+templates = ["a centered satellite photo of a {}."]
